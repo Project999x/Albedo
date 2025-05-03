@@ -36,7 +36,7 @@ TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "4"))
 
 #pics
 START_PIC = os.environ.get("START_PIC", "https://envs.sh/rGy.jpg")
-FORCE_PIC = os.environ.get("FORCE_PIC", "0")
+FORCE_PIC = os.environ.get("FORCE_PIC", "https://envs.sh/rGX.jpg")
 
 #text
 HELP_TXT = "<blockquote><b>Hi Dude!\n\nTo use this bot you just have to join both channels that's it..\nWatch Tutorial to open Link - <a href=https://t.me/Flame_Backup_1/4>Clickhere</a></b></blockquote>"
